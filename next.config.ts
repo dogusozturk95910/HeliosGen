@@ -23,3 +23,9 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
+const nextConfig = {
+  // ... (varsa eski ayarlar burada kalsın)
+  images: {
+    unoptimized: true,
+  },
+};
